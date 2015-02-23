@@ -1,0 +1,6 @@
+E:\HOST\IIS\apps\WebApp\DAL\bin\Debug\DAL.dll.config
+E:\HOST\IIS\apps\WebApp\DAL\bin\Debug\DAL.dll
+E:\HOST\IIS\apps\WebApp\DAL\bin\Debug\DAL.pdb
+E:\HOST\IIS\apps\WebApp\DAL\obj\Debug\DAL.dll
+E:\HOST\IIS\apps\WebApp\DAL\obj\Debug\DAL.pdb
+E:\HOST\IIS\apps\WebApp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

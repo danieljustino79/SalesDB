@@ -1,0 +1,7 @@
+E:\HOST\IIS\apps\WebApp\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\HOST\IIS\apps\WebApp\BLL\bin\Debug\BLL.dll
+E:\HOST\IIS\apps\WebApp\BLL\bin\Debug\BLL.pdb
+E:\HOST\IIS\apps\WebApp\BLL\bin\Debug\DAL.dll
+E:\HOST\IIS\apps\WebApp\BLL\bin\Debug\DAL.pdb
+E:\HOST\IIS\apps\WebApp\BLL\obj\Debug\BLL.dll
+E:\HOST\IIS\apps\WebApp\BLL\obj\Debug\BLL.pdb

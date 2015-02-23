@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Masters/Main.Master" AutoEventWireup="true" CodeBehind="Template.master.cs" Inherits="WebApp.Masters.Template" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="cphHead" runat="server">
+    <asp:ContentPlaceHolder ID="cphHead" runat="server">        
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="cphBody" runat="server">
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <asp:HyperLink ID="hlBrand" runat="server" CssClass="navbar-brand" Text="SalesDB" />
+        </div>
+        <div id="navbar" class="navbar-collapse collapse pull-right">
+          <ul class="nav navbar-nav">
+            <li><asp:HyperLink ID="hlLogin" runat="server" Text="Login" /></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+    <div class="container">
+    <form id="form1" runat="server">
+    <asp:ContentPlaceHolder ID="cphForm" runat="server">        
+    </asp:ContentPlaceHolder>
+    </form>
+    </div>
+</asp:Content>
